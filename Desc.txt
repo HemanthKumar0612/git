@@ -1,2 +1,5 @@
 This is a sample File
 1. Created in remote repo
+2. Clone into local repo
+3. Committed from local
+
